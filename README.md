@@ -7,7 +7,7 @@ The project focuses on predicting the presence of heart disease based on various
 **Objectives**
 
 - Model Development: Implement decision tree models to predict the likelihood of heart disease using medical data.
-- Comparison: Compare the performance of decision tree models with and without hyperparameter tuning.
+- Comparison: Compare the performance of decision tree models with and without hyperparameter tuning. Used Grid Search Cross Validation method for hyperparameter tuning.
 - Feature Importance: Analyze the importance of different variables (age, sex, cholesterol level, etc.) in predicting heart disease.
 
 **Dataset**
@@ -16,7 +16,7 @@ The dataset includes medical attributes such as age, sex, cholesterol level, and
 
 **Key Components**
 
-Code: Implementation of decision tree models in Python, with separate scripts for basic and hyperparameter-tuned versions.
+Code: Implementation of decision tree models in Python, with separate scripts for basic and hyperparameter-tuned versions. 
 
 Data: The dataset used for training and evaluating the models.
 
